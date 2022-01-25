@@ -1,0 +1,9 @@
+{
+	"directory": "weekMFM",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+
+	"boyfriend": [1090, 50],
+	"girlfriend": [400, -125],
+	"opponent": [100, -400]
+}

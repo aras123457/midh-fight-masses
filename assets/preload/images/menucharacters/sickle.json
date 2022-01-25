@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Sickle",
+	"position": [
+		275,
+		150
+	],
+	"scale": 0.35,
+	"idle_anim": "Menu_Sickle idle",
+	"confirm_anim": "M Dad Idle"
+}

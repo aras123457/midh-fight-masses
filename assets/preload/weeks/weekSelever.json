@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Casanova", "selever", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "Selever",
+	"weekBefore": "weekMFM",
+	"weekName": "Week Selever",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

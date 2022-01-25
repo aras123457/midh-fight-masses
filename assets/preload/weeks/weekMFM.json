@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Parish", "sarvente", [255, 120, 191]],
+		["Worship", "sarvente-dark", [255, 120, 191]],
+		["Zavodila", "ruv", [255, 120, 191]],
+		["Gospel", "sarvente-lucifer", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"sickle",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "mid-fight masses",
+	"weekBefore": "week6",
+	"weekName": "Week MFM",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
